@@ -1,12 +1,12 @@
 This is Lee Sin guide. Passion project. Guide will explain
 
---Builds
+- Builds
 
---Playstyle
+- Playstyle
 
---Mechanics
+- Mechanics
 
---Thought process
+- Thought process
 
 Thank you for reading and be interested
 
